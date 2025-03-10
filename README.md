@@ -7,7 +7,7 @@ class AboutMe {
         this.email = "Havoks.bit@gmail.com";
         this.age = 18;
         this.isMale = true;
-        this.languages = ["JavaScript"];
+        this.languages = ["C#", "Python", "JavaScript"];
         this.quote = "The balance between body and mind!";
     }
 
