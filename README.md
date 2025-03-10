@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/demo/?font=Montserrat&size=24&lines=Hi%2C+I+am+just+a+fresher;Ready+to+shine+and+grow)
+<img src="https://readme-typing-svg.demolab.com/?font=Montserrat&size=24&lines=Hi%2C+I+am+just+a+fresher;Ready+to+shine+and+grow" alt="Typing SVG" />
+
+```javascript
 class AboutMe {
     constructor() {
         this.nickname = "Havoks";
